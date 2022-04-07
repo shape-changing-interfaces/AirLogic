@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"This script drops AirLogic widgets."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
