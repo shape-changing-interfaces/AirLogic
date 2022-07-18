@@ -7,7 +7,7 @@ The files under [AirLogic subfolder](./AirLogic) can be used in Autodesk Fusion 
 The script has two features:
 
 1) adding encapsulated version of the input, logic, output elements to the current workspace.  
-It is to 3D print the elements and test ideas.
+It is to 3D print the elements and test ideas. The STL files of the elements can be found under [STL-files subfolder](./STL-files). Users can directly download them and print.
 ![adding encapsulated input sensor](./Images/Screenshot-1.png)
 
 2) adding non-encapsulated versions (internal pipes) of the elements to the current workspace.  
