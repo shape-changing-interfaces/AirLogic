@@ -21,7 +21,7 @@ They can then manually connect the elements, cut out the elements from the desir
 1. Download and place [AirLogic subfolder](./AirLogic) under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/ (Mac).  
 2. Launch Fusion 360.  
 3. Go to Tools panel then click ADD-INS icon.  
-4. Click MorpheesPlug Script under My Scripts.  
+4. Click AirLogic Script under My Scripts.  
 5. Click Run.  
 6. Choose a widget and change the parameters as needed.  
 Note: If you want to show the script icon on your Fusion 360, put the folder under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/ (Mac). An icon will show up under Tools/Add-ins arrow. You can click the icon to launch the script.  
